@@ -1,0 +1,6 @@
+@VRLoyaltySystemAPI_HostAddress = http://localhost:5294
+
+GET {{VRLoyaltySystemAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

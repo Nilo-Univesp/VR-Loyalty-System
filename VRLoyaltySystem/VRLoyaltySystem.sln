@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRLoyaltySystem", "VRLoyaltySystem\VRLoyaltySystem.csproj", "{0B91833A-FDC6-4F58-9070-D1DAC06A3577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRLoyaltySystemAPI", "VRLoyaltySystemAPI\VRLoyaltySystemAPI.csproj", "{F6BA61C3-F569-4478-894D-BE709F796E50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B91833A-FDC6-4F58-9070-D1DAC06A3577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B91833A-FDC6-4F58-9070-D1DAC06A3577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B91833A-FDC6-4F58-9070-D1DAC06A3577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B91833A-FDC6-4F58-9070-D1DAC06A3577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6BA61C3-F569-4478-894D-BE709F796E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BA61C3-F569-4478-894D-BE709F796E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BA61C3-F569-4478-894D-BE709F796E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BA61C3-F569-4478-894D-BE709F796E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E3E1804-D355-479B-8D44-A36934BD31F3}
+	EndGlobalSection
+EndGlobal
